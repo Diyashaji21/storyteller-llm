@@ -1,0 +1,8 @@
+.streamlit-expanderHeader {
+    background: linear-gradient(90deg, #00C9FF, #92FE9D); /* Adjust to your gradient */
+    color: white;
+}
+body {
+    background: linear-gradient(90deg, #00C9FF, #92FE9D); /* Adjust to your gradient */
+    color: white;
+}
