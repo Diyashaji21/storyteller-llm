@@ -6,7 +6,7 @@ import base64
 import google.generativeai as genai
 
 # Load the image from your local system
-image_path = "moon.jpeg"  # Ensure the image is located at this path
+image_path = "angel.jpeg"  # Ensure the image is located at this path
 image = Image.open(image_path)
 
 # Function to convert the image to base64 for embedding into CSS
